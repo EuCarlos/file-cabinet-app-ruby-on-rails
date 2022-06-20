@@ -8,3 +8,7 @@ yarn.lock linguist-generated
 
 # Mark any vendored files as having been vendored.
 vendor/* linguist-vendored
+
+*.html linguist-documentation=false
+*.css linguist-documentation=false
+*.js linguist-documentation=false
